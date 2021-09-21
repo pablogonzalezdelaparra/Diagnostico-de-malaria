@@ -9,5 +9,5 @@ El objetivo principal de este repositorio se enfoca en realizar una simulación 
 
 ## Archivo principal
 ```matlab
-main.cpp
+parametrizacionSE.m
 ```
